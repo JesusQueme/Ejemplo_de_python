@@ -1,2 +1,2 @@
-# Ejemplo_de_python
- Ejemplo para reforzar el uso de git
+# Ejemplo de Programa en Python
+ Ejemplo de programa en python para reforzar el uso de git
